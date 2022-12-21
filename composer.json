@@ -1,5 +1,5 @@
 {
-    "name": "seidengroup/db2-driver",
+    "name": "bwicompanies/db2-driver",
     "description": "DB2 for IBM iSeries drop-in Laravel driver",
     "keywords": [
         "BWICompanies",
